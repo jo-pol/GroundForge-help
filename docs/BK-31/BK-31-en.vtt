@@ -10,7 +10,7 @@ follow "_with_"
 drop center stitch: `ctc` -> `-`
 
 00:00:10.000 --> 00:00:10.900
-![wand](../images/wand.png) generate new diagrams
+wand: new diagrams
 
 00:00:18.000 --> 00:00:18.900
 reload web page : restores original diagrams
@@ -22,7 +22,7 @@ scroll down to advanced section
 drop center stitch: `353,153` -> `-5-,5-5-`
 
 00:00:35.000 --> 00:00:40.900
-![wand](../images/wand.png) : different prototype, same pair/thread diagram
+wand: different prototype, same pair/thread diagram
 
 00:00:41.000 --> 00:00:43.900
 follow (i)
@@ -42,7 +42,7 @@ Note that ctc, twist one pair, ctc is a single stitch for GroundForge.
 It makes the runner changing direction, therefore: turning stitch.
 
 00:01:19.000 --> 00:01:22.900
-![link](../images/link.png)
+create link
 
 00:01:23.000 --> 00:01:25.900
 reload web page
@@ -57,7 +57,7 @@ create favourite
 "_animate_" pair diagram
 
 00:01:36.000 --> 00:01:37.900
-increase thread diagram container (alternative: ![](../images/size-inc.jpg) ![](../images/size-dec.jpg))
+increase thread diagram container
 
 00:01:38.000 --> 00:01:41.900
 scroll down to get thread container back into view

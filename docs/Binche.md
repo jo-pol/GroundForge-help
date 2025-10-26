@@ -84,6 +84,8 @@ published in 2018 by the LOKK as _[kantje van de maand]_, also nr 31.
 
 <video controls width="640">
   <source src="https://github.com/d-bl/GroundForge/releases/download/2019-Q3/BK-31.mp4" type="video/mp4">
-  <track src="BK-31-en.vtt" kind="subtitles" srclang="en" label="English">
+  <track src="BK-31/BK-31-de.vtt" kind="subtitles" srclang="de" label="English">
+  <track src="BK-31/BK-31-en.vtt" kind="subtitles" srclang="en" label="Deutsch" default>
+  <track src="BK-31/BK-31-nl.vtt" kind="subtitles" srclang="nl" label="Nederland">
   Your browser does not support the video tag.
 </video>
