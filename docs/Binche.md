@@ -77,7 +77,13 @@ The sampler is no longer available from the [Deutscher Klöppelverband], but you
 
 [Deutscher Klöppelverband]: https://www.deutscher-kloeppelverband.de/
 
-Another sampler suitable to practice variations of the ground is an edging designed by the Tini Bruins,
+Another sampler suitable tovidevo restored practice variations of the ground is an edging designed by the Tini Bruins,
 published in 2018 by the LOKK as _[kantje van de maand]_, also nr 31.
 
 [kantje van de maand]: https://lokknl.org/wp-content/uploads/2025/08/kantje31.pdf
+
+<video controls width="640">
+  <source src="https://github.com/d-bl/GroundForge/releases/download/2019-Q3/BK-31.mp4" type="video/mp4">
+  <track src="BK-31-en.vtt" kind="subtitles" srclang="en" label="English">
+  Your browser does not support the video tag.
+</video>
