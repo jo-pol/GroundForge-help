@@ -1,0 +1,66 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.500
+start with this help page (a slightly older version is recorded)
+
+00:00:00.500 --> 00:00:00.900
+follow "_with_"
+
+00:00:05.000 --> 00:00:05.900
+drop center stitch: `ctc` -> `-`
+
+00:00:10.000 --> 00:00:10.900
+![wand](../images/wand.png) generate new diagrams
+
+00:00:18.000 --> 00:00:18.900
+reload web page : restores original diagrams
+
+00:00:19.000 --> 00:00:19.900
+scroll down to advanced section
+
+00:00:22.000 --> 00:00:34.900
+drop center stitch: `353,153` -> `-5-,5-5-`
+
+00:00:35.000 --> 00:00:40.900
+![wand](../images/wand.png) : different prototype, same pair/thread diagram
+
+00:00:41.000 --> 00:00:43.900
+follow (i)
+
+00:00:44.000 --> 00:00:44.900
+follow "_stitches_"
+
+00:00:45.000 --> 00:00:45.900
+copy edge stitch
+
+00:00:49.000 --> 00:00:49.900
+previous browser tab
+
+00:00:52.000 --> 00:00:52.900
+paste the copied stitch and edit into turning stitch.
+Note that ctc, twist one pair, ctc is a single stitch for GroundForge.
+It makes the runner changing direction, therefore: turning stitch.
+
+00:01:19.000 --> 00:01:22.900
+![link](../images/link.png)
+
+00:01:23.000 --> 00:01:25.900
+reload web page
+
+00:01:26.000 --> 00:01:26.900
+current pattern is reloaded
+
+00:01:27.000 --> 00:01:32.900
+create favourite
+
+00:01:33.000 --> 00:01:34.900
+"_animate_" pair diagram
+
+00:01:36.000 --> 00:01:37.900
+increase thread diagram container (alternative: ![](../images/size-inc.jpg) ![](../images/size-dec.jpg))
+
+00:01:38.000 --> 00:01:41.900
+scroll down to get thread container back into view
+
+00:01:42.000 --> 00:01:42.900
+toggle thread color when tooltip displays thread number
